@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1552046023 source:c:\users\adam\desktop\c\lab4_assessment\word_game.c
+	<stdio.h>
+	<stdbool.h>
+
+1552046213 source:c:\users\adam\desktop\c\lab4_assessment\assessment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"word_game.h"
+
+1552044720 c:\users\adam\desktop\c\lab4_assessment\assessment\word_game.h
+	<stdbool.h>
+
+1552046024 source:c:\users\adam\desktop\c assessment\seanadamhollandr00162740\word_game.c
+	<stdio.h>
+	<stdbool.h>
+
+1552046314 source:c:\users\adam\desktop\c assessment\seanadamhollandr00162740\assessment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"word_game.h"
+
+1552044722 c:\users\adam\desktop\c assessment\seanadamhollandr00162740\assessment\word_game.h
+	<stdbool.h>
+
+1552046024 source:c:\users\adam\desktop\c\c assessment\seanadamhollandr00162740\word_game.c
+	<stdio.h>
+	<stdbool.h>
+
+1552649137 source:c:\users\adam\desktop\c\c assessment\seanadamhollandr00162740\assessment\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"word_game.h"
+
+1552044722 c:\users\adam\desktop\c\c assessment\seanadamhollandr00162740\assessment\word_game.h
+	<stdbool.h>
+
